@@ -1,0 +1,19 @@
+body {
+    background-color: #f4f7f6;
+}
+
+.book {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.book-cover {
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.btn-delete {
+    margin-left: 5px;
+}
