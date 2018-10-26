@@ -39,7 +39,7 @@ const addBookToLibrary = function () {
 
   // console.log(newArr);
 
-  const data = $(this).attr('data'); // document.querySelector('btn that was clicked (e.target)').getAttribute('data')
+  const data = $(this).attr('data'); // btn that was clicked (e.target).getAttribute('data')
 
   if (data === undefined) {
     // console.log(data);
